@@ -18,15 +18,24 @@ This project uses a trained **LSTM model** to understand text sequences and pred
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="Screenshot_model_training.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model_training.png" alt="Model Training" width="80%">
+</p>
+<p align="center">
+  🔹 Model training process showing how the LSTM learns from text data.
 </p>
 
 <p align="center">
-  <img src="Screenshot_model_testing.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model_testing.png" alt="Model Testing" width="80%">
+</p>
+<p align="center">
+  🔹 Model testing phase demonstrating prediction performance.
 </p>
 
 <p align="center">
-  <img src="Screenshot_model.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model.png" alt="Final App UI" width="80%">
+</p>
+<p align="center">
+  🔹 Final Streamlit web app interface for next word prediction.
 </p>
 
 ---
