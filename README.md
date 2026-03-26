@@ -22,11 +22,11 @@ This project uses a trained **LSTM model** to understand text sequences and pred
 </p>
 
 <p align="center">
-  <img src="Screenshot_model_testing.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model.png" alt="App Screenshot" width="80%">
 </p>
 
 <p align="center">
-  <img src="Screenshot_model_result.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model_testing.png" alt="App Screenshot" width="80%">
 </p>
 
 ---
