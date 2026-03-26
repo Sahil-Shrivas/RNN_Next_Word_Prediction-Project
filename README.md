@@ -15,6 +15,14 @@ This project uses a trained **LSTM model** to understand text sequences and pred
 
 ---
 
+## 📸 Project Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="App Screenshot" width="80%">
+</p>
+
+---
+
 ## 🎯 Features
 
 ✅ Predict next word in a sentence  
