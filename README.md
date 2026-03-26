@@ -52,11 +52,17 @@ This project uses a trained **LSTM model** to understand text sequences and pred
     git clone https://github.com/Sahil-Shrivas/RNN_Next_Word_Prediction-Project.git
     cd RNN_Next_Word_Prediction-Project
 
-###🔹 Step 2: Install Dependencies
+### 🔹 Step 2: Install Dependencies
     ```bash
     pip install -r requirements.txt
     pip install streamlit tensorflow numpy
 
-###🔹 Step 3: Run the Application
+### 🔹 Step 3: Run the Application
     ```bash
     streamlit run app.py
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, give it a ⭐ on GitHub!
