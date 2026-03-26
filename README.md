@@ -18,7 +18,7 @@ This project uses a trained **LSTM model** to understand text sequences and pred
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="assets/preview.png" alt="App Screenshot" width="80%">
+  <img src="Screenshot_model_result.png" alt="App Screenshot" width="80%">
 </p>
 
 ---
