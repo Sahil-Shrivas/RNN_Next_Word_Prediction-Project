@@ -125,7 +125,7 @@ st.set_page_config(
 import pickle
 import numpy as np
 import os
-import tensorflow as tf
+from tensorflow.keras.models import load_model
 
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
