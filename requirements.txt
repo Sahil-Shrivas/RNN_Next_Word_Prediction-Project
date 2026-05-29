@@ -1,7 +1,6 @@
 streamlit
-tensorflow
+tensorflow-cpu
 numpy
 pandas
 scikit-learn
 keras
-pickle-mixin
