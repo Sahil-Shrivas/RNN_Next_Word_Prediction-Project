@@ -112,7 +112,6 @@
 
 
 
-```python
 import streamlit as st
 
 # ------------------------------
@@ -245,4 +244,4 @@ st.markdown("---")
 st.caption(
     "Built with ❤️ using TensorFlow, LSTM & Streamlit"
 )
-```
+
